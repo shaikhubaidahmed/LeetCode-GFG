@@ -8,7 +8,7 @@ class Solution {
                 break;
             }
         }
-        if(j!=-1){
+        if(j==-1) return; 
             for(int i=j+1;i<n;i++){
             if(arr[i]!=0){
                 arr[i]=arr[i]^arr[j];
@@ -16,7 +16,6 @@ class Solution {
                 arr[i]=arr[i]^arr[j];
                 j++;
             }
-        }
         }
         
     }
