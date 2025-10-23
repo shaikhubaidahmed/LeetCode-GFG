@@ -1,6 +1,7 @@
 class Solution {
     public int minDays(int[] bloomDay, int m, int k) {
         int ans=-1;
+        if(m*k>bloomDay.length) return ans;
         int low=1;
         int high=Integer.MIN_VALUE;
         int flowers=m*k;
@@ -10,7 +11,7 @@ class Solution {
                 high=num;
             }
         }
-
+        
             while(low<=high){
                 int mid=low+(high-low)/2;
 
