@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
 | LeetCode | 4 | 0 | 4 | 0 |
-| GeeksforGeeks | 2 | 0 | 2 | 0 |
-| **Total** | **6** | **0** | **6** | **0** |
+| GeeksforGeeks | 3 | 0 | 3 | 0 |
+| **Total** | **7** | **0** | **7** | **0** |
 
 ## Solved Problems
 
@@ -20,5 +20,6 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 3 | [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/6_ZigzagConversion.java) |
 | 4 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/8_StringToIntegerAtoi.java) |
 | 5 | [Frog Jump](https://practice.geeksforgeeks.org/problems/geek-jump/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_FrogJump.java) |
-| 6 | [Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_JosephusProblem.java) |
+| 6 | [Geek's Training](https://practice.geeksforgeeks.org/problems/geeks-training/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_GeeksTraining.java) |
+| 7 | [Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_JosephusProblem.java) |
 <!-- COMMITDSA_END -->
