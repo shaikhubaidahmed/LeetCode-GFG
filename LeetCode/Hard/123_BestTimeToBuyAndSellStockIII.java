@@ -6,26 +6,18 @@
 
 class Solution {
     public int maxProfit(int[] prices) {
-        int n=prices.length;
-        int[][][] dp=new int[n+1][2][3];
+        int buy1=Integer.MIN_VALUE;
+        int sell1=0;
+        int buy2=Integer.MIN_VALUE;
+        int sell2=0;
 
-        dp[n][0][0]=0;
-        dp[n][1][0]=0;
-
-        for(int ind=n-1;ind>=0;ind--){
-            for(int i=0;i<=1;i++){
-                for(int cap=2;cap>=1;cap--){
-                    int profit=0;
-                    if(i==1){
-                        profit=Math.max(-prices[ind]+dp[ind+1][0][cap],dp[ind+1][1][cap]);
-                    }else{
-                        profit=Math.max(prices[ind]+dp[ind+1][1][cap-1],dp[ind+1][0][cap]);
-                    }
-                    dp[ind][i][cap]=profit;
-                }
-            }
-            
+        for(int price:prices){
+            buy1=Math.max(buy1,-price);
+            sell1=Math.max(sell1,buy1+price);
+            buy2=Math.max(buy2,sell1-price);
+            sell2=Math.max(sell2,buy2+price);
         }
-        return dp[0][1][2];
+        return sell2;
+        
     }
 }
