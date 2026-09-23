@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
 | LeetCode | 14 | 1 | 10 | 3 |
-| GeeksforGeeks | 3 | 0 | 3 | 0 |
-| **Total** | **17** | **1** | **13** | **3** |
+| GeeksforGeeks | 4 | 0 | 4 | 0 |
+| **Total** | **18** | **1** | **14** | **3** |
 
 ## Solved Problems
 
@@ -32,4 +32,5 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 15 | [Frog Jump](https://practice.geeksforgeeks.org/problems/geek-jump/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_FrogJump.java) |
 | 16 | [Geek's Training](https://practice.geeksforgeeks.org/problems/geeks-training/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_GeeksTraining.java) |
 | 17 | [Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_JosephusProblem.java) |
+| 18 | [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SubsetSumProblem.java) |
 <!-- COMMITDSA_END -->
