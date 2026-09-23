@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
 | LeetCode | 14 | 1 | 10 | 3 |
-| GeeksforGeeks | 4 | 0 | 4 | 0 |
-| **Total** | **18** | **1** | **14** | **3** |
+| GeeksforGeeks | 5 | 0 | 5 | 0 |
+| **Total** | **19** | **1** | **15** | **3** |
 
 ## Solved Problems
 
@@ -29,8 +29,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 12 | [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Hard/123_BestTimeToBuyAndSellStockIII.java) |
 | 13 | [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Hard/1463_CherryPickupII.java) |
 | 14 | [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Hard/188_BestTimeToBuyAndSellStockIV.java) |
-| 15 | [Frog Jump](https://practice.geeksforgeeks.org/problems/geek-jump/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_FrogJump.java) |
-| 16 | [Geek's Training](https://practice.geeksforgeeks.org/problems/geeks-training/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_GeeksTraining.java) |
-| 17 | [Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_JosephusProblem.java) |
-| 18 | [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SubsetSumProblem.java) |
+| 15 | [Count Subsets with Sum](https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_CountSubsetsWithSum.java) |
+| 16 | [Frog Jump](https://practice.geeksforgeeks.org/problems/geek-jump/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_FrogJump.java) |
+| 17 | [Geek's Training](https://practice.geeksforgeeks.org/problems/geeks-training/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_GeeksTraining.java) |
+| 18 | [Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_JosephusProblem.java) |
+| 19 | [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SubsetSumProblem.java) |
 <!-- COMMITDSA_END -->
