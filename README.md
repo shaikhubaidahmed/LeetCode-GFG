@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 20 | 6 | 11 | 3 |
+| LeetCode | 21 | 6 | 11 | 4 |
 | GeeksforGeeks | 5 | 0 | 5 | 0 |
-| **Total** | **25** | **6** | **16** | **3** |
+| **Total** | **26** | **6** | **16** | **4** |
 
 ## Solved Problems
 
@@ -33,11 +33,12 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 16 | [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/714_BestTimeToBuyAndSellStockWithTransactionFee.java) |
 | 17 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/8_StringToIntegerAtoi.java) |
 | 18 | [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Hard/123_BestTimeToBuyAndSellStockIII.java) |
-| 19 | [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Hard/1463_CherryPickupII.java) |
-| 20 | [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Hard/188_BestTimeToBuyAndSellStockIV.java) |
-| 21 | [Count Subsets with Sum](https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_CountSubsetsWithSum.java) |
-| 22 | [Frog Jump](https://practice.geeksforgeeks.org/problems/geek-jump/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_FrogJump.java) |
-| 23 | [Geek's Training](https://practice.geeksforgeeks.org/problems/geeks-training/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_GeeksTraining.java) |
-| 24 | [Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_JosephusProblem.java) |
-| 25 | [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SubsetSumProblem.java) |
+| 19 | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Hard/124_BinaryTreeMaximumPathSum.java) |
+| 20 | [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Hard/1463_CherryPickupII.java) |
+| 21 | [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Hard/188_BestTimeToBuyAndSellStockIV.java) |
+| 22 | [Count Subsets with Sum](https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_CountSubsetsWithSum.java) |
+| 23 | [Frog Jump](https://practice.geeksforgeeks.org/problems/geek-jump/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_FrogJump.java) |
+| 24 | [Geek's Training](https://practice.geeksforgeeks.org/problems/geeks-training/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_GeeksTraining.java) |
+| 25 | [Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_JosephusProblem.java) |
+| 26 | [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SubsetSumProblem.java) |
 <!-- COMMITDSA_END -->
