@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 22 | 7 | 11 | 4 |
+| LeetCode | 23 | 7 | 12 | 4 |
 | GeeksforGeeks | 5 | 0 | 5 | 0 |
-| **Total** | **27** | **7** | **16** | **4** |
+| **Total** | **28** | **7** | **17** | **4** |
 
 ## Solved Problems
 
@@ -23,23 +23,24 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 6 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/543_DiameterOfBinaryTree.java) |
 | 7 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/94_BinaryTreeInorderTraversal.java) |
 | 8 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/102_BinaryTreeLevelOrderTraversal.java) |
-| 9 | [120. Triangle](https://leetcode.com/problems/triangle/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/120_Triangle.java) |
-| 10 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/122_BestTimeToBuyAndSellStockII.java) |
-| 11 | [198. House Robber](https://leetcode.com/problems/house-robber/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/198_HouseRobber.java) |
-| 12 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/213_HouseRobberII.java) |
-| 13 | [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/309_BestTimeToBuyAndSellStockWithCooldown.java) |
-| 14 | [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/6_ZigzagConversion.java) |
-| 15 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/62_UniquePaths.java) |
-| 16 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/64_MinimumPathSum.java) |
-| 17 | [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/714_BestTimeToBuyAndSellStockWithTransactionFee.java) |
-| 18 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/8_StringToIntegerAtoi.java) |
-| 19 | [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Hard/123_BestTimeToBuyAndSellStockIII.java) |
-| 20 | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Hard/124_BinaryTreeMaximumPathSum.java) |
-| 21 | [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Hard/1463_CherryPickupII.java) |
-| 22 | [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Hard/188_BestTimeToBuyAndSellStockIV.java) |
-| 23 | [Count Subsets with Sum](https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_CountSubsetsWithSum.java) |
-| 24 | [Frog Jump](https://practice.geeksforgeeks.org/problems/geek-jump/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_FrogJump.java) |
-| 25 | [Geek's Training](https://practice.geeksforgeeks.org/problems/geeks-training/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_GeeksTraining.java) |
-| 26 | [Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_JosephusProblem.java) |
-| 27 | [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SubsetSumProblem.java) |
+| 9 | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/103_BinaryTreeZigzagLevelOrderTraversal.java) |
+| 10 | [120. Triangle](https://leetcode.com/problems/triangle/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/120_Triangle.java) |
+| 11 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/122_BestTimeToBuyAndSellStockII.java) |
+| 12 | [198. House Robber](https://leetcode.com/problems/house-robber/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/198_HouseRobber.java) |
+| 13 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/213_HouseRobberII.java) |
+| 14 | [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/309_BestTimeToBuyAndSellStockWithCooldown.java) |
+| 15 | [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/6_ZigzagConversion.java) |
+| 16 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/62_UniquePaths.java) |
+| 17 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/64_MinimumPathSum.java) |
+| 18 | [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/714_BestTimeToBuyAndSellStockWithTransactionFee.java) |
+| 19 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/8_StringToIntegerAtoi.java) |
+| 20 | [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Hard/123_BestTimeToBuyAndSellStockIII.java) |
+| 21 | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Hard/124_BinaryTreeMaximumPathSum.java) |
+| 22 | [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Hard/1463_CherryPickupII.java) |
+| 23 | [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Hard/188_BestTimeToBuyAndSellStockIV.java) |
+| 24 | [Count Subsets with Sum](https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_CountSubsetsWithSum.java) |
+| 25 | [Frog Jump](https://practice.geeksforgeeks.org/problems/geek-jump/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_FrogJump.java) |
+| 26 | [Geek's Training](https://practice.geeksforgeeks.org/problems/geeks-training/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_GeeksTraining.java) |
+| 27 | [Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_JosephusProblem.java) |
+| 28 | [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SubsetSumProblem.java) |
 <!-- COMMITDSA_END -->
