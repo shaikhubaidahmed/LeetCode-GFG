@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
 | LeetCode | 23 | 7 | 12 | 4 |
-| GeeksforGeeks | 5 | 0 | 5 | 0 |
-| **Total** | **28** | **7** | **17** | **4** |
+| GeeksforGeeks | 6 | 0 | 6 | 0 |
+| **Total** | **29** | **7** | **18** | **4** |
 
 ## Solved Problems
 
@@ -43,4 +43,5 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 26 | [Geek's Training](https://practice.geeksforgeeks.org/problems/geeks-training/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_GeeksTraining.java) |
 | 27 | [Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_JosephusProblem.java) |
 | 28 | [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SubsetSumProblem.java) |
+| 29 | [Tree Boundary Traversal](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) | GeeksforGeeks | Medium | PYTHON | [Code](./GFG/Medium/0_TreeBoundaryTraversal.py) |
 <!-- COMMITDSA_END -->
