@@ -19,11 +19,11 @@ class Solution:
             if not left or not right:
                 return False
             if left.val!=right.val:
-                return True
+                return False
 
-            return Mirror(left.left,right.right) and Mirror(left.right,right.right)
+            return Mirror(left.left,right.right) and Mirror(left.right,right.left)
         
         if not root:
-            return true
+            return True
 
         return Mirror(root.left,root.right)
