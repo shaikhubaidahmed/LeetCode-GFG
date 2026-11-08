@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
 | LeetCode | 29 | 9 | 15 | 5 |
-| GeeksforGeeks | 10 | 2 | 8 | 0 |
-| **Total** | **39** | **11** | **23** | **5** |
+| GeeksforGeeks | 11 | 2 | 8 | 1 |
+| **Total** | **40** | **11** | **23** | **6** |
 
 ## Solved Problems
 
@@ -54,4 +54,5 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 37 | [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SubsetSumProblem.java) |
 | 38 | [Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1) | GeeksforGeeks | Medium | PYTHON | [Code](./GFG/Medium/0_TopViewOfBinaryTree.py) |
 | 39 | [Tree Boundary Traversal](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) | GeeksforGeeks | Medium | PYTHON | [Code](./GFG/Medium/0_TreeBoundaryTraversal.py) |
+| 40 | [Burning Tree](https://practice.geeksforgeeks.org/problems/burning-tree/1) | GeeksforGeeks | Hard | PYTHON | [Code](./GFG/Hard/0_BurningTree.py) |
 <!-- COMMITDSA_END -->
