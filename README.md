@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 34 | 10 | 18 | 6 |
+| LeetCode | 35 | 10 | 19 | 6 |
 | GeeksforGeeks | 11 | 2 | 8 | 1 |
-| **Total** | **45** | **12** | **26** | **7** |
+| **Total** | **46** | **12** | **27** | **7** |
 
 ## Solved Problems
 
@@ -32,32 +32,33 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 15 | [198. House Robber](https://leetcode.com/problems/house-robber/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/198_HouseRobber.java) |
 | 16 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/213_HouseRobberII.java) |
 | 17 | [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/222_CountCompleteTreeNodes.py) |
-| 18 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/236_LowestCommonAncestorOfABinaryTree.py) |
-| 19 | [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/309_BestTimeToBuyAndSellStockWithCooldown.java) |
-| 20 | [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/450_DeleteNodeInABST.py) |
-| 21 | [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/6_ZigzagConversion.java) |
-| 22 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/62_UniquePaths.java) |
-| 23 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/64_MinimumPathSum.java) |
-| 24 | [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/662_MaximumWidthOfBinaryTree.py) |
-| 25 | [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/701_InsertIntoABinarySearchTree.py) |
-| 26 | [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/714_BestTimeToBuyAndSellStockWithTransactionFee.java) |
-| 27 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/8_StringToIntegerAtoi.java) |
-| 28 | [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/863_AllNodesDistanceKInBinaryTree.py) |
-| 29 | [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Hard/123_BestTimeToBuyAndSellStockIII.java) |
-| 30 | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Hard/124_BinaryTreeMaximumPathSum.java) |
-| 31 | [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Hard/1463_CherryPickupII.java) |
-| 32 | [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Hard/188_BestTimeToBuyAndSellStockIV.java) |
-| 33 | [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | LeetCode | Hard | PYTHON3 | [Code](./LeetCode/Hard/297_SerializeAndDeserializeBinaryTree.py) |
-| 34 | [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | LeetCode | Hard | PYTHON3 | [Code](./LeetCode/Hard/987_VerticalOrderTraversalOfABinaryTree.py) |
-| 35 | [Left View of Binary Tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_LeftViewOfBinaryTree.py) |
-| 36 | [Right View of Binary Tree](https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_RightViewOfBinaryTree.py) |
-| 37 | [Bottom View of Binary Tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) | GeeksforGeeks | Medium | PYTHON | [Code](./GFG/Medium/0_BottomViewOfBinaryTree.py) |
-| 38 | [Count Subsets with Sum](https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_CountSubsetsWithSum.java) |
-| 39 | [Frog Jump](https://practice.geeksforgeeks.org/problems/geek-jump/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_FrogJump.java) |
-| 40 | [Geek's Training](https://practice.geeksforgeeks.org/problems/geeks-training/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_GeeksTraining.java) |
-| 41 | [Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_JosephusProblem.java) |
-| 42 | [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SubsetSumProblem.java) |
-| 43 | [Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1) | GeeksforGeeks | Medium | PYTHON | [Code](./GFG/Medium/0_TopViewOfBinaryTree.py) |
-| 44 | [Tree Boundary Traversal](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) | GeeksforGeeks | Medium | PYTHON | [Code](./GFG/Medium/0_TreeBoundaryTraversal.py) |
-| 45 | [Burning Tree](https://practice.geeksforgeeks.org/problems/burning-tree/1) | GeeksforGeeks | Hard | PYTHON | [Code](./GFG/Hard/0_BurningTree.py) |
+| 18 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/230_KthSmallestElementInABST.py) |
+| 19 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/236_LowestCommonAncestorOfABinaryTree.py) |
+| 20 | [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/309_BestTimeToBuyAndSellStockWithCooldown.java) |
+| 21 | [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/450_DeleteNodeInABST.py) |
+| 22 | [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/6_ZigzagConversion.java) |
+| 23 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/62_UniquePaths.java) |
+| 24 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/64_MinimumPathSum.java) |
+| 25 | [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/662_MaximumWidthOfBinaryTree.py) |
+| 26 | [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/701_InsertIntoABinarySearchTree.py) |
+| 27 | [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/714_BestTimeToBuyAndSellStockWithTransactionFee.java) |
+| 28 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/8_StringToIntegerAtoi.java) |
+| 29 | [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/863_AllNodesDistanceKInBinaryTree.py) |
+| 30 | [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Hard/123_BestTimeToBuyAndSellStockIII.java) |
+| 31 | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Hard/124_BinaryTreeMaximumPathSum.java) |
+| 32 | [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Hard/1463_CherryPickupII.java) |
+| 33 | [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | LeetCode | Hard | JAVA | [Code](./LeetCode/Hard/188_BestTimeToBuyAndSellStockIV.java) |
+| 34 | [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | LeetCode | Hard | PYTHON3 | [Code](./LeetCode/Hard/297_SerializeAndDeserializeBinaryTree.py) |
+| 35 | [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | LeetCode | Hard | PYTHON3 | [Code](./LeetCode/Hard/987_VerticalOrderTraversalOfABinaryTree.py) |
+| 36 | [Left View of Binary Tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_LeftViewOfBinaryTree.py) |
+| 37 | [Right View of Binary Tree](https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_RightViewOfBinaryTree.py) |
+| 38 | [Bottom View of Binary Tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) | GeeksforGeeks | Medium | PYTHON | [Code](./GFG/Medium/0_BottomViewOfBinaryTree.py) |
+| 39 | [Count Subsets with Sum](https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_CountSubsetsWithSum.java) |
+| 40 | [Frog Jump](https://practice.geeksforgeeks.org/problems/geek-jump/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_FrogJump.java) |
+| 41 | [Geek's Training](https://practice.geeksforgeeks.org/problems/geeks-training/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_GeeksTraining.java) |
+| 42 | [Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_JosephusProblem.java) |
+| 43 | [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SubsetSumProblem.java) |
+| 44 | [Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1) | GeeksforGeeks | Medium | PYTHON | [Code](./GFG/Medium/0_TopViewOfBinaryTree.py) |
+| 45 | [Tree Boundary Traversal](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) | GeeksforGeeks | Medium | PYTHON | [Code](./GFG/Medium/0_TreeBoundaryTraversal.py) |
+| 46 | [Burning Tree](https://practice.geeksforgeeks.org/problems/burning-tree/1) | GeeksforGeeks | Hard | PYTHON | [Code](./GFG/Hard/0_BurningTree.py) |
 <!-- COMMITDSA_END -->
